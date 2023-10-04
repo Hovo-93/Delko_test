@@ -1,4 +1,4 @@
-from Delko_test.DateInputMixin import DateInput
+from DateInputMixin import DateInput
 import datetime
 import locale
 
