@@ -20,7 +20,7 @@ git clone https://github.com/Hovo-93/Delko_test.git
 
 ```
 
-#### Шаг 4. В командной строке ввести команду
+#### Шаг 4. Запустить приложение
 ```bash
     python Calendar.py
 ```
